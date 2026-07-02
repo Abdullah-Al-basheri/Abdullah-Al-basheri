@@ -52,13 +52,6 @@ A high-performance Arabic scientific calculator built with structured parsing lo
 
 ---
 
-### ⚙️ Dev_Commands_Library
-A personal developer automation framework for reusable commands, workflow optimization, and development acceleration.
-
-> Focus: Productivity systems • Code reuse • Developer tooling
-
----
-
 ### 📂 Engineering Portfolio
 A collection of 7+ systems including:
 - Web applications
@@ -97,7 +90,7 @@ A collection of 7+ systems including:
 
 ## 🌐 CONNECT WITH ME
 
-- LinkedIn: https://www.linkedin.com/in/abdullah-al-basheri-8a9655393?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/abdullah-al-basheri-8a9655393
 - Email: abwalzalymny762@gmail.com 
 - GitHub: https://github.com/Abdullah-Al-basheri
 - 
