@@ -18,7 +18,7 @@ I'm a Software Engineering student who enjoys understanding how systems work fro
 
 I care about code that is readable, predictable, and easy to grow. I'm always building something, whether it's a web app, a backend service, a console tool, or an experimental AI script.
 
-- 🎓 Studying Software Engineering
+- 🎓 Studying IT 
 - 🏢 Member of **Bito-Tech**, working on real team projects and collaborating through pull requests
 - 🔭 Currently focused on backend systems design and scalable APIs (.NET / Python)
 - 🌱 Learning machine learning, NLP, and how to build proper data pipelines
